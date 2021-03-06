@@ -8,7 +8,7 @@
 * 🔭 I’m currently working on a NLP project to automatically evaluate subjective Answers
 * 🌱 I’m currently learning React and MongoDB
 * 👯 I’m looking to collaborate on any Data Science Project
-* ⚡ Fun fact: I am a bug sucker for mystery novels and movies directed by Tarantino or Nolan.
+* ⚡ Fun fact: I am a big sucker for mystery novels and movies directed by Tarantino or Nolan.
 
 ### 🧰 Languages and Tools:
  - - - -
