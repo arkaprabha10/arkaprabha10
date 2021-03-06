@@ -27,8 +27,9 @@
  
  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Python" height="40" style="vertical-align:top; margin:4px">
  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Python" height="40" style="vertical-align:top; margin:4px">
- <img src="https://github.com/valohai/ml-logos/blob/master/tensorflow-layout.svg" alt="Python" height="40" style="vertical-align:top; margin:4px">
- <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white" alt="Python" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/valohai/ml-logos/blob/master/tensorflow-layout.svg" alt="Python" height="30" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/valohai/ml-logos/blob/master/pytorch.svg" alt="Python" height="30" style="vertical-align:top; margin:4px">
+ 
  
  
  
