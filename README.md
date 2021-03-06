@@ -3,7 +3,6 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=arkaprabha10.arkaprabha10)
 [![Github](https://img.shields.io/github/followers/arkaprabha10?label=Follow&style=social)](https://github.com/arkaprabha10)
 
-<br>
 # 🎓 I'm a B.Tech CS Junior at DAIICT
  - - - -
 * 🔭 I’m currently working on a NLP project to automatically evaluate subjective Answers
