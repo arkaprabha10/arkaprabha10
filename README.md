@@ -28,6 +28,7 @@
  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Python" height="30" style="vertical-align:top; margin:4px">
  <img src="https://github.com/valohai/ml-logos/blob/master/tensorflow-layout.svg" alt="Python" height="30" style="vertical-align:top; margin:4px">
  <img src="https://github.com/valohai/ml-logos/blob/master/pytorch.svg" alt="Python" height="30" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/parse-community/parse-php-sdk/blob/master/Assets/logo%20large.png" alt="Python" height="30" style="vertical-align:top; margin:4px">
  <img src="http://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="Python" height="30" style="vertical-align:top; margin:4px">
  
  
