@@ -24,12 +24,12 @@
  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="Python" height="30" style="vertical-align:top; margin:4px">
  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="Python" height="30" style="vertical-align:top; margin:4px">
  <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white" alt="Python" height="30" style="vertical-align:top; margin:4px">
- 
  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Python" height="30" style="vertical-align:top; margin:4px">
  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Python" height="30" style="vertical-align:top; margin:4px">
  <img src="https://github.com/valohai/ml-logos/blob/master/tensorflow-layout.svg" alt="Python" height="30" style="vertical-align:top; margin:4px">
  <img src="https://github.com/valohai/ml-logos/blob/master/pytorch.svg" alt="Python" height="30" style="vertical-align:top; margin:4px">
  
+ <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fyou.stonybrook.edu%2Fiwomp2017%2F&psig=AOvVaw1U9tvpHPFd_IrcOrAaO-mL&ust=1615124067720000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIiY1pXkm-8CFQAAAAAdAAAAABAD" alt="Python" height="30" style="vertical-align:top; margin:4px">
  
  
  
