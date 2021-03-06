@@ -1,5 +1,8 @@
 ### Hi there 👋 My name is Arka
 
+![](https://visitor-badge.laobi.icu/badge?page_id=arkaprabha10.arkaprabha10)
+[![Github](https://img.shields.io/github/followers/arkaprabha10?label=Follow&style=social)](https://github.com/arkaprabha10)
+
 You can find me on :
 <p align="center"> 
 <!--  <a href="https://charalambosioannou.github.io/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a> -->
