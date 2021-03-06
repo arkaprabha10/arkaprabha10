@@ -13,11 +13,23 @@
 ### 🧰 Languages and Tools:
  - - - -
 <p align="center">
+ <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Python" height="40" style="vertical-align:top; margin:4px">
  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="Python" height="40" style="vertical-align:top; margin:4px">
  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="Python" height="40" style="vertical-align:top; margin:4px">
  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="Python" height="40" style="vertical-align:top; margin:4px">
- <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="Python" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Python" height="40" style="vertical-align:top; margin:4px">
  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Python" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Python" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="Python" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="Python" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white" alt="Python" height="40" style="vertical-align:top; margin:4px">
+ 
+ <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Python" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Python" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white" alt="Python" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white" alt="Python" height="40" style="vertical-align:top; margin:4px">
+ 
  
  
 </p>
