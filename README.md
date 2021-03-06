@@ -3,9 +3,9 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=arkaprabha10.arkaprabha10)
 [![Github](https://img.shields.io/github/followers/arkaprabha10?label=Follow&style=social)](https://github.com/arkaprabha10)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=arkaprabha10&show_icons=true&theme=tokyonight)
-&nbsp &nbsp
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arkaprabha10&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=arkaprabha10&show_icons=true&theme=radical)
+&nbsp; &nbsp;
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arkaprabha10&theme=radical)
 
 <br>
 You can find me on :
