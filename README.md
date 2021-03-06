@@ -10,11 +10,16 @@
 * 👯 I’m looking to collaborate on any Data Science Project
 * ⚡ Fun fact: I am a bug sucker for mystery novels and movies directed by Tarantino or Nolan.
 
-<br>
 ### 🧰 Languages and Tools:
  - - - -
 <p align="center">
  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="Python" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="Python" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="Python" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="Python" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Python" height="40" style="vertical-align:top; margin:4px">
+ 
+ 
 </p>
 
 ### 🏆 My Github Stats:
