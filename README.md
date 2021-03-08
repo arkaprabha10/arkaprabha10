@@ -43,7 +43,7 @@
  - - - -
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=arkaprabha10&show_icons=true&theme=radical)
 &nbsp; &nbsp;
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arkaprabha10&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arkaprabha10&theme=radical&langs_count=8&layout=compact)
 
 
 ### 📫 How to reach me: 
