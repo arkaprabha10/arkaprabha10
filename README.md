@@ -30,8 +30,9 @@
  <img src="https://github.com/valohai/ml-logos/blob/master/pytorch.svg" alt="Python" height="30" style="vertical-align:top; margin:4px">
  <img src="https://www.openmp.org/wp-content/uploads/openmp-header-logo-100h.png" alt="Python" height="30" style="vertical-align:top; margin:4px">
  <img src="https://github.com/parse-community/parse-php-sdk/blob/master/Assets/logo%20large.png" alt="Python" height="30" style="vertical-align:top; margin:4px">
- <img src="http://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="Python" height="30" style="vertical-align:top; margin:4px">
+ <img src="https://logos-world.net/wp-content/uploads/2020/12/MATLAB-Symbol-700x394.jpg" alt="Python" height="30" style="vertical-align:top; margin:4px">
  <img src="https://a.fsdn.com/allura/p/wavesurfer/icon?1464526253?&w=90" alt="Python" height="30" style="vertical-align:top; margin:4px">
+ <img src="https://i.stack.imgur.com/zHFFO.png" alt="Python" height="30" style="vertical-align:top; margin:4px">
  
  
  
