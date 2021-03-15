@@ -42,7 +42,7 @@
 
 ### 🏆 My Github Stats:
  - - - -
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=arkaprabha10&show_icons=true&theme=radical&count_private=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=arkaprabha10&show_icons=true&theme=radical&count_private=true&layout=compact)
 &nbsp; &nbsp;
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arkaprabha10&theme=radical&langs_count=6&layout=compact)
 
