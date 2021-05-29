@@ -43,14 +43,16 @@
 
 ### 🏆 My Github Stats:
  - - - -
-<!--  <p align="center"> -->
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=arkaprabha10&show_icons=true&theme=radical&count_private=true&layout=compact)
-<!-- &nbsp; &nbsp; -->
-&ensp;
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arkaprabha10&theme=radical&langs_count=6&layout=compact)
-&ensp;&ensp;[![Arka's github trophy](https://github-profile-trophy.vercel.app/?username=arkaprabha10&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+ <p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=arkaprabha10&show_icons=true&theme=radical&count_private=true&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arkaprabha10&theme=radical&langs_count=6&layout=compact">
+<img src="https://github-profile-trophy.vercel.app/?username=arkaprabha10&row=1)](https://github.com/ryo-ma/github-profile-trophy">
 <!-- </p> -->
 
+<!-- ![GitHub stats]()
+<!-- &nbsp; &nbsp; -->
+<!-- &ensp;&ensp;[![Arka's github trophy](https://github-profile-trophy.vercel.app/?username=arkaprabha10&row=1)](https://github.com/ryo-ma/github-profile-trophy) -->
+ 
 ### 📫 How to reach me: 
  - - - -
 <p align="center"> 
