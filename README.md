@@ -43,20 +43,20 @@
 
 ### 🏆 My Github Stats:
  - - - -
- <p align="center">
+<!--  <p align="center"> -->
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=arkaprabha10&show_icons=true&theme=radical&count_private=true&layout=compact)
 &nbsp; &nbsp;
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arkaprabha10&theme=radical&langs_count=6&layout=compact)
 [![Arka's github trophy](https://github-profile-trophy.vercel.app/?username=arkaprabha10&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-</p>
+<!-- </p> -->
 
 ### 📫 How to reach me: 
  - - - -
-<!-- <p align="center">  -->
+<p align="center"> 
 <!--  <a href="https://charalambosioannou.github.io/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a> -->
  <a href="https://www.linkedin.com/in/arkaprabha-banerjee-2568b01a8/" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
  <a href="mailto:arka10.banerjee@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
-<!-- </p> -->
+</p>
 
 <!--
 **arkaprabha10/arkaprabha10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
