@@ -45,7 +45,9 @@
  - - - -
  <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=arkaprabha10&show_icons=true&theme=radical&count_private=true&layout=compact">
+<br> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arkaprabha10&theme=radical&langs_count=6&layout=compact">
+<br>
 <img src="https://github-profile-trophy.vercel.app/?username=arkaprabha10&row=1)](https://github.com/ryo-ma/github-profile-trophy">
 <!-- </p> -->
 
