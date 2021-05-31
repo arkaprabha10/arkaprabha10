@@ -67,7 +67,16 @@
 ### Here's a random aesthetic image for ya :)
  - - - -
  <p align="center"> 
- <img src = "https://source.unsplash.com/random/400x800">
+ <img src = "https://source.unsplash.com/random/800x400">
  </p>
+ 
+ 
+### Here's a random meme for ya :)
+ - - - -
+ <p align="center"> 
+ <img src = "https://api.imgflip.com/get_memes">
+ </p>
+ 
+ 
 <!--
 **arkaprabha10/arkaprabha10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
