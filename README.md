@@ -62,21 +62,21 @@
  <a href="https://www.linkedin.com/in/arkaprabha-banerjee-2568b01a8/" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
  <a href="mailto:arka10.banerjee@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
-<IMG SRC="https://camo.githubusercontent.com/6c462df7a80f58974ae914a49f0bdf532d7cefb7fe1027307f38e79d93dc044c/68747470733a2f2f7468756d62732e6766796361742e636f6d2f476f6f646e617475726564466f6e64476175722d73697a655f726573747269637465642e676966">
- 
+<!-- <IMG SRC="https://camo.githubusercontent.com/6c462df7a80f58974ae914a49f0bdf532d7cefb7fe1027307f38e79d93dc044c/68747470733a2f2f7468756d62732e6766796361742e636f6d2f476f6f646e617475726564466f6e64476175722d73697a655f726573747269637465642e676966">
+  -->
 ### Here's a random aesthetic image for ya :)
  - - - -
  <p align="center"> 
  <img src = "https://source.unsplash.com/random/800x400">
  </p>
  
- 
+<!--  
 ### Here's a random meme for ya :)
  - - - -
  <p align="center"> 
  <img src = "https://api.imgflip.com/get_memes">
  </p>
- 
+  -->
  
 <!--
 **arkaprabha10/arkaprabha10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
