@@ -3,11 +3,11 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=arkaprabha10.arkaprabha10)
 [![Github](https://img.shields.io/github/followers/arkaprabha10?label=Follow&style=social)](https://github.com/arkaprabha10)
 
-### 🎓 I'm a B.Tech CS Junior at DAIICT
+### 🎓 I'm a B.Tech CS Senior at DAIICT
  - - - -
-* 🔭 I’m currently working on a NLP project to automatically evaluate subjective Answers
-* 🌱 I’m learning React and MongoDB
-* 👯 I’m looking to collaborate on any Data Science Project
+* 🔭 I’m currently working on a NLP project to detect financial claims.
+<!-- * 🌱 I’m learning React and MongoDB -->
+* 👯 I’m looking to collaborate on any Data Science Project.
 * ⚡ Fun fact: I am a sucker for mystery novels and movies directed by Tarantino or Nolan.
 
 ### 🧰 Languages and Tools:
